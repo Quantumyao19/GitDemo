@@ -14,3 +14,4 @@ Hello world from git!
 Hello world from git!
 Hello world from git!
 Hello world from git!在master里面修改啦
+Hello world from git! hot-fix里面修改的
